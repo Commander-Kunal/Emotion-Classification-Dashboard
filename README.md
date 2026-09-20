@@ -102,8 +102,6 @@ streamlit run app.py
 ```
 *The app will automatically open in your default browser at `http://localhost:8501`. Note: The first run takes ~5-10 seconds to load all models into memory.*
 
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-**Developed by Mostafa Abdallah**
+**Developed by Kunal Gupta**
